@@ -62,7 +62,11 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((data) => {
         const filename = "README.md"
-        fs.writeFile(filename, generateMarkdown(data), (err) => err ? console.log(err) : console.log("Success"))
+
+
+        fs.writeFile(filename, generateMarkdown(data), (err) => err ? 
+        console.log(err) : console.log("Success!")
+        )
         
     })
 }
