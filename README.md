@@ -1,12 +1,12 @@
 ## Professional Readme.md Generator
 
-#User Story
+#   User Story
 
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
-#Acceptance Criteria
+#   Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
