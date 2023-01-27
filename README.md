@@ -33,6 +33,11 @@
   ## Contact
   - [github]("https://github.com/RaminNoorzada")
   - [email]("https://github.com/test@gmail.com")
+  
+  ## A walkthrough video link
+  - A walkthrough video link: https://drive.google.com/file/d/1iBc8s2FSMrALWn9X-VbU-f2DJHMwHAs-/view
+  
+  
    
     <br/>
 
